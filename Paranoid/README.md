@@ -1,4 +1,4 @@
-#Paranoid
+# Paranoid
 
 An agent-based model developed in [NetLogo](https://ccl.northwestern.edu/netlogo/) 5.3.1
 
