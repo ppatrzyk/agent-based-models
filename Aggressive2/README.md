@@ -1,4 +1,4 @@
-# Aggressive2
+# Aggressive 2
 
 An agent-based model developed in [NetLogo](https://ccl.northwestern.edu/netlogo/) 5.2.0
 
